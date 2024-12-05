@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\bin\Debug\net6.0\GarifullinRE.exe
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\bin\Debug\net6.0\GarifullinRE.deps.json
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\bin\Debug\net6.0\GarifullinRE.runtimeconfig.json
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\bin\Debug\net6.0\GarifullinRE.dll
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\bin\Debug\net6.0\GarifullinRE.pdb
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.AssemblyInfo.cs
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.dll
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\refint\GarifullinRE.dll
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.pdb
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\GarifullinRE.genruntimeconfig.cache
+C:\Users\rober\source\repos\GarifullinRE\GarifullinRE\obj\Debug\net6.0\ref\GarifullinRE.dll
